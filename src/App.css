@@ -1,0 +1,25 @@
+@media only screen and (max-width: 500px) {
+  .chartLi{
+    border:0.5px solid #282c34;
+  }
+  .chartContainer{
+    width: 340px;
+  }
+}
+
+.chartLi{
+max-width: 120px;
+display: inline-block;
+background-color: rgb(83, 182, 182);
+border: 1.3px solid #282c34;
+}
+
+.chartContainer{
+  border-radius: 10px;
+  background-color: #282c34;
+  justify-content: center;
+  display: inline-flex;
+  margin-top: 110px !important;
+  margin: 0px auto;
+  padding:20px;
+}
